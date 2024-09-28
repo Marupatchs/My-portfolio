@@ -12,5 +12,4 @@ My data science and analytics projects
 ## Contact Me
 reach out to me at patcharaporn.supho@gmail.com
 
-## Image
-![Deadpool](https://sm.ign.com/t/ign_ap/review/d/deadpool-r/deadpool-review_36q1.1280.jpg)
+![typing](https://github.com/user-attachments/assets/6da08e84-53fe-4320-8a94-3c1c6f562f7e)
