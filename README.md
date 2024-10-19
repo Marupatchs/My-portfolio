@@ -1,5 +1,6 @@
-# Data Science Bootcamp 10
-My data science and analytics projects
+# Hello everyone!
+I am Patcharaporn Supho and this is my personal project
+Plese feel free to reach out my portfolio
 
 ## My personal projects
 
@@ -7,6 +8,7 @@ My data science and analytics projects
 2. R program
 3. Data transformation
 4. Data visualization
+5. Python
 
 ## Contact Me
 reach out to me at patcharaporn.supho@gmail.com
